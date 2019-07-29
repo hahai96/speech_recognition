@@ -1,5 +1,5 @@
 #import "SpeechRecognitionPlugin.h"
-#import <speech_recognition/speech_recognition-Swift.h>
+#import "Runner-Swift.h"
 
 @implementation SpeechRecognitionPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
